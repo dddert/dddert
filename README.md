@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Andrei Volkov] 👋
 
 ML Engineer building things with data.
 
@@ -39,8 +39,8 @@ ML Engineer building things with data.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dddert&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dddert&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dddert&theme=dark)
