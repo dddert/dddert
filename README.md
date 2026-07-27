@@ -1,7 +1,7 @@
 # Hi, I'm Andrei Volkov 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=002137&center=true&vCenter=true&width=600&lines=Applied+AI+student;Python+Developer;ML+Engineer;Business+Analyst+in+T1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Applied+AI+student;Python+Developer;ML+Engineer;Business+Analyst+in+T1" />
 </p>
 
 ---
