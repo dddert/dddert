@@ -1,6 +1,8 @@
-# Hi, I'm [Andrei Volkov] 👋
+# Hi, I'm Andrei Volkov.
 
-ML Engineer building things with data.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=a47bd7&center=true&vCenter=true&width=600&lines=Applied+AI+student;Python+Developer;ML Engineer; Business Analyst in T1" />
+</p>
 
 ---
 
@@ -39,8 +41,11 @@ ML Engineer building things with data.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=dddert&show_icons=true&theme=dark&count_private=true)
- 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=dddert&layout=compact&theme=dark)
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=dddert&theme=dark)
+<p align="center">
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dddert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=dddert&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dddert&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,html,css" />
+</p>
