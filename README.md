@@ -39,8 +39,8 @@ ML Engineer building things with data.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dddert&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dddert&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dddert&theme=dark)
+![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=dddert&show_icons=true&theme=dark&count_private=true)
+ 
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=dddert&layout=compact&theme=dark)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=dddert&theme=dark)
