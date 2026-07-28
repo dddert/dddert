@@ -18,7 +18,7 @@
 ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ## 🔬 Machine Learning
-![CatBoost](https://img.shields.io/badge/CATBOOST-FFCC00?style=for-the-badge&logo=data:image/png;base64,&logoColor=black)
+![CatBoost](https://img.shields.io/badge/CATBOOST-FFCC00?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBOOST-006ACC?style=for-the-badge)
 ![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
