@@ -43,7 +43,6 @@
 
 <p align="center">
 <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dddert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://streak-stats.demolab.com?user=dddert&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
